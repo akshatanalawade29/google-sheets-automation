@@ -1,11 +1,17 @@
-# Google Sheets Daily Report Automation
+# Google Sheets Automation
 
-This Google Apps Script reads a Google Sheet and sends a daily summary email.
+This project contains a simple Google Apps Script that automates tasks in Google Sheets.
 
-## Usage
-1. Copy Code.gs into Google Sheets > Extensions > Apps Script.
-2. Authorize the script to send email.
-3. Click the custom menu to send the summary.
+## Features
+- Reads and writes data in Google Sheets
+- Automates repetitive tasks
+- Easy to customize
+
+## How to Use
+1. Open [Google Apps Script](https://script.google.com/)
+2. Create a new project
+3. Copy the contents of Code.gs.js into the editor
+4. Save and run
 
 ## License
-MIT
+Free to use for learning purposes.
